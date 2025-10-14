@@ -13,7 +13,7 @@ import yfinance as yf
 # PAGE CONFIG
 # ------------------------------------------------------------
 st.set_page_config(
-    page_title="Financial Analysis Dashboard",
+    page_title="Financial Toolkit by amiravalles",
     page_icon="📊",
     layout="wide"
 )
